@@ -11,16 +11,16 @@ class Array
         }
 
         int[] new_array = new int[size];
-        int i, j;
+        int i;
 
         for (i = 0; i < size; i++)
         {
             new_array[i] = i;
-        }
-
-        for (j = 0; j < size; j++)
-        {
-            Console.Write("{0} ", new_array[j]);
+            if (i == size - 1) {
+                Console.Write("{0}\n", new_array[i]);
+            } else {
+                Console.Write("{0} ", new_array[i]);
+            }
         }
         Console.WriteLine();
         return(new_array);
