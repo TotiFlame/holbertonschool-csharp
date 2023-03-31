@@ -6,10 +6,9 @@ class Array
     {
         int array_length;
 
-        if (array == null)
+        if (array == null || array.Length == 0)
         {
-            return;
-        } else if (array.Length == 0) {
+            Console.WriteLine();
             return;
         }
         for (array_length = array.Length - 1; array_length >= 0; --array_length) {
