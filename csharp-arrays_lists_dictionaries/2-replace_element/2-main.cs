@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        int[] array = {0, 1, 2, 3, 4, 5, 6};
+        int[] array = {0};
 
         PrintArray(array);
         Array.ReplaceElement(array, 1, 98);
@@ -21,7 +21,7 @@ class Program
             if (i < array.Length - 1)
                 Console.Write(" ");
         }
-
+        
         Console.WriteLine();
     }
 }
