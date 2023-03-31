@@ -1,0 +1,11 @@
+/home/totiflame/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/netcoreapp2.1/4-print_list.deps.json
+/home/totiflame/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/netcoreapp2.1/4-print_list.runtimeconfig.json
+/home/totiflame/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/netcoreapp2.1/4-print_list.runtimeconfig.dev.json
+/home/totiflame/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/netcoreapp2.1/4-print_list.dll
+/home/totiflame/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/netcoreapp2.1/4-print_list.pdb
+/home/totiflame/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.csprojAssemblyReference.cache
+/home/totiflame/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.csproj.CoreCompileInputs.cache
+/home/totiflame/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.AssemblyInfoInputs.cache
+/home/totiflame/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.AssemblyInfo.cs
+/home/totiflame/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.dll
+/home/totiflame/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.pdb
