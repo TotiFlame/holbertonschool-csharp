@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class List
 {
@@ -9,14 +10,22 @@ class List
             return(null);
         }
 
+        int i = 0, j;
         List<int> numbers = new List<int>();
-        while (i < size) {
+        while (i < size)
         {
             numbers.Add(i);
             i++;
         }
-        Console.WriteLine("{0}", numbers);
-        return(numbers);
+        for (j = 0; j < size; j++)
+        {
+            if (j == size - 1) {
+                Console.Write(numbers[j] + "\n");
+            } else
+            {
+                Console.Write(numbers[j] + " ");
+            }
         }
+        return numbers;
     }
 }
