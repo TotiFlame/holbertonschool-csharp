@@ -8,7 +8,6 @@ class Array
 
         if (array == null)
         {
-            Console.WriteLine();
             return;
         } else if (array.Length == 0) {
             return;
