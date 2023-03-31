@@ -14,6 +14,7 @@ class Array
         for (array_length = array.Length - 1; array_length >= 0; --array_length) {
             Console.Write("{0} ", array[array_length]);
         }
+        Console.WriteLine();
         return;
     }
 }
