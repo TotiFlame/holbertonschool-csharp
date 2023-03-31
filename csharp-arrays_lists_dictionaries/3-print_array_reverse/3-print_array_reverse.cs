@@ -13,7 +13,7 @@ class Array
             array_length = array.Length - 1;
             while (array_length >= 0) {
                 if (array_length == 0) {
-                    Console.Write("{0}", array[array_length]);
+                    Console.Write("{0}\n", array[array_length]);
                 } else {
                     Console.Write("{0} ", array[array_length]);
                 }
