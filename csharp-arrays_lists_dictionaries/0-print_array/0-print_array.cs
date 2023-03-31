@@ -17,7 +17,7 @@ class Array
         {
             new_array[i] = i;
             if (i == size - 1) {
-                Console.Write("{0}\n", new_array[i]);
+                Console.Write("{0}", new_array[i]);
             } else {
                 Console.Write("{0} ", new_array[i]);
             }
