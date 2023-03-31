@@ -9,6 +9,9 @@ class List
             Console.WriteLine("Size cannot be negative");
             return(null);
         }
+        if (size == 0) {
+            Console.WriteLine();
+        }
 
         int i = 0, j;
         List<int> numbers = new List<int>();
