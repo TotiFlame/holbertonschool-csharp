@@ -1,0 +1,11 @@
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/2-different_elements/bin/Debug/netcoreapp2.1/2-different_elements.deps.json
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/2-different_elements/bin/Debug/netcoreapp2.1/2-different_elements.runtimeconfig.json
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/2-different_elements/bin/Debug/netcoreapp2.1/2-different_elements.runtimeconfig.dev.json
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/2-different_elements/bin/Debug/netcoreapp2.1/2-different_elements.dll
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/2-different_elements/bin/Debug/netcoreapp2.1/2-different_elements.pdb
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/2-different_elements/obj/Debug/netcoreapp2.1/2-different_elements.csprojAssemblyReference.cache
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/2-different_elements/obj/Debug/netcoreapp2.1/2-different_elements.csproj.CoreCompileInputs.cache
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/2-different_elements/obj/Debug/netcoreapp2.1/2-different_elements.AssemblyInfoInputs.cache
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/2-different_elements/obj/Debug/netcoreapp2.1/2-different_elements.AssemblyInfo.cs
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/2-different_elements/obj/Debug/netcoreapp2.1/2-different_elements.dll
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/2-different_elements/obj/Debug/netcoreapp2.1/2-different_elements.pdb
