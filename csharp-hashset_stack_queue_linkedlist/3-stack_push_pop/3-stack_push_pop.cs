@@ -9,7 +9,7 @@ class MyStack
         bool contains = aStack.Contains(search);
 
         Console.WriteLine("Number of items: {0}", aStack.Count);
-        Console.WriteLine("Top Item: {0}", top);
+        Console.WriteLine("Top item: {0}", top);
         Console.WriteLine("Stack contains \"{0}\": {1}", search, contains);
         
         while (aStack.Contains(search))
