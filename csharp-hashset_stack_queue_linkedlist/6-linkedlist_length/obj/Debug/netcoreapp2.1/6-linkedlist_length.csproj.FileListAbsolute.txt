@@ -1,0 +1,11 @@
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp2.1/6-linkedlist_length.deps.json
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp2.1/6-linkedlist_length.runtimeconfig.json
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp2.1/6-linkedlist_length.runtimeconfig.dev.json
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp2.1/6-linkedlist_length.dll
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp2.1/6-linkedlist_length.pdb
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.csprojAssemblyReference.cache
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.csproj.CoreCompileInputs.cache
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.AssemblyInfoInputs.cache
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.AssemblyInfo.cs
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.dll
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.pdb
