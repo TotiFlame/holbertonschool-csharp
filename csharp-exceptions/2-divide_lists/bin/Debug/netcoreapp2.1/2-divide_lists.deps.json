@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "9-linkedlist_pop/1.0.0": {
+      "2-divide_lists/1.0.0": {
         "runtime": {
-          "9-linkedlist_pop.dll": {}
+          "2-divide_lists.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "9-linkedlist_pop/1.0.0": {
+    "2-divide_lists/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
