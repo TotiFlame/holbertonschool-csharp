@@ -20,6 +20,6 @@ public struct Dog {
     }
 
     public override string ToString() {
-        return $"Dog name: {name}\nAge: {age}\nOwner: {this.owner}\nRating: {this.rating}";
+        return $"Dog Name: {name}\nAge: {age}\nOwner: {this.owner}\nRating: {this.rating}";
     }
 }
