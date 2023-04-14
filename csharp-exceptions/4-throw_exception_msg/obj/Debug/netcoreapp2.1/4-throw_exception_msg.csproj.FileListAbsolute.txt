@@ -1,0 +1,11 @@
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.deps.json
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.runtimeconfig.json
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.runtimeconfig.dev.json
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.dll
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.pdb
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.csprojAssemblyReference.cache
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.csproj.CoreCompileInputs.cache
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.AssemblyInfoInputs.cache
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.AssemblyInfo.cs
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.dll
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.pdb
