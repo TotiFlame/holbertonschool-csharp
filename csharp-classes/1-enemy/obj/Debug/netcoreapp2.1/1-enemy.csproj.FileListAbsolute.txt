@@ -9,3 +9,4 @@
 /home/totiflame/Holberton/holbertonschool-csharp/csharp-classes/1-enemy/obj/Debug/netcoreapp2.1/1-enemy.AssemblyInfo.cs
 /home/totiflame/Holberton/holbertonschool-csharp/csharp-classes/1-enemy/obj/Debug/netcoreapp2.1/1-enemy.dll
 /home/totiflame/Holberton/holbertonschool-csharp/csharp-classes/1-enemy/obj/Debug/netcoreapp2.1/1-enemy.pdb
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-classes/1-enemy/bin/Debug/netcoreapp2.1/1-enemy.xml
