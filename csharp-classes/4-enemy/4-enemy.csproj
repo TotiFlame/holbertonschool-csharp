@@ -3,11 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>_0_enemy</RootNamespace>
-<<<<<<< HEAD
-=======
+    <RootNamespace>_4_enemy</RootNamespace>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
->>>>>>> 5d35def5f4d49209b930226ee11a99083d1b0eba
   </PropertyGroup>
 
 </Project>
