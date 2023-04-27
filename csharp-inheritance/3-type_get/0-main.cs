@@ -6,11 +6,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        var num = 10;
-        var myList = new List<int>();
+        var a = 98;
 
-        Obj.Print(num);
-        Console.WriteLine("-----------------");
-        Obj.Print(myList);
+        Obj.Print(a);
     }
 }
