@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>6-shape</name>
+    </assembly>
+    <members>
+        <member name="M:Shape.Area">
+            <summary> public area method </summary>
+        </member>
+    </members>
+</doc>
