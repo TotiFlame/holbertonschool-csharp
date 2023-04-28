@@ -6,9 +6,9 @@ class Obj
     /// <summary> Method that prints properties and methods of an object.</summary>
     public static void Print(object myObj)
     {
-        Console.WriteLine("Int32 Properties:");
-        Console.WriteLine("Int32 Methods:");
         PropertyInfo[] properties = myObj.GetType().GetProperties();
+        Console.WriteLine("{0} Properties:", myObj.GetType().Name);
+        Console.WriteLine("{0} Methods:", myObj.GetType().Name);
         foreach (PropertyInfo prop in properties)
         {
             Console.WriteLine(prop.Name);
