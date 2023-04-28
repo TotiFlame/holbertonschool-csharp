@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/0-is/0-is.csproj": {}
+    "/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/4-inherit.csproj": {}
   },
   "projects": {
-    "/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/0-is/0-is.csproj": {
+    "/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/4-inherit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/0-is/0-is.csproj",
-        "projectName": "0-is",
-        "projectPath": "/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/0-is/0-is.csproj",
+        "projectUniqueName": "/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/4-inherit.csproj",
+        "projectName": "4-inherit",
+        "projectPath": "/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/4-inherit.csproj",
         "packagesPath": "/home/totiflame/.nuget/packages/",
-        "outputPath": "/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/0-is/obj/",
+        "outputPath": "/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

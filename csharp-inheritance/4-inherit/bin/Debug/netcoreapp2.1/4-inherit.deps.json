@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "0-is/1.0.0": {
+      "4-inherit/1.0.0": {
         "runtime": {
-          "0-is.dll": {}
+          "4-inherit.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "0-is/1.0.0": {
+    "4-inherit/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
