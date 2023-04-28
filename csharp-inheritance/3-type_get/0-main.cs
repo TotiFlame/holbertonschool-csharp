@@ -6,7 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        var a = 98;
+        var a = new List<int>();
 
         Obj.Print(a);
     }
