@@ -1,0 +1,11 @@
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.deps.json
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.runtimeconfig.json
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.runtimeconfig.dev.json
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.dll
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.pdb
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.csprojAssemblyReference.cache
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.csproj.CoreCompileInputs.cache
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.AssemblyInfoInputs.cache
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.AssemblyInfo.cs
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.dll
+/home/totiflame/Holberton/holbertonschool-csharp/csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.pdb
